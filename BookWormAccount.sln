@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32519.111
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWormAccount", "BookWormAccount\BookWormAccount.csproj", "{3E0111AB-A011-4A9C-BAED-93002AA598C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookWormAccount", "BookWormAccount\BookWormAccount.csproj", "{3E0111AB-A011-4A9C-BAED-93002AA598C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookWormAccountTests", "BookWormAccountTests\BookWormAccountTests.csproj", "{FEE6BFEC-02B9-42ED-AC7E-8F75C70BF940}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3E0111AB-A011-4A9C-BAED-93002AA598C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E0111AB-A011-4A9C-BAED-93002AA598C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E0111AB-A011-4A9C-BAED-93002AA598C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE6BFEC-02B9-42ED-AC7E-8F75C70BF940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE6BFEC-02B9-42ED-AC7E-8F75C70BF940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE6BFEC-02B9-42ED-AC7E-8F75C70BF940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE6BFEC-02B9-42ED-AC7E-8F75C70BF940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
